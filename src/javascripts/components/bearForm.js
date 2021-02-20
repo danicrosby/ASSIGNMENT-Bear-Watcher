@@ -5,7 +5,7 @@ const bearForm = () => {
   domString += `<div class="bearFormIntro my-2">
   <h3>Track a new bear!</h3>
 </div>
-<form>
+<form id="bearForm">
   <div class="row my-3">
     <label for="bearNameInput" class="col-sm-2 col-form-label"
       >Bear Name:</label

@@ -1,12 +1,12 @@
-import bears from './bearArray';
+import { bears } from './bearArray';
 import river from '../../components/river';
 
 const formFunc = (e) => {
   e.preventDefault();
   const bearName = document.querySelector('#bearNameInput').value;
   const bearImg = document.querySelector('#bearImageInput').value;
-  const fishCaught = ['123AM', '34'];
-  const missedFish = ['2', '55'];
+  const fishCaught = [''];
+  const missedFish = [''];
 
   const bearObj = {
     bearName,

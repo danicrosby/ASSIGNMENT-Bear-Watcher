@@ -14,35 +14,33 @@ const river = (bears) => {
     <div class="card-body">
       <h5 class="card-title">${bear.bearName}</h5>
       <p class="card-text">
-      <div id="caught">
-        Caught a fish ${fishString[0]} </br>
-        Caught a fish ${fishString[1]} 
+      <div class="caught">
+        Last Fish Caught: ${bear.fishCaught[0]} <br>
+        Last Fish Missed: ${bear.missedFish[0]} <br>
+        Total fish caught: ${fishString.length - 1} <br>
       </div>
-        Missed a fish! 10:15AM<br />
-        Missed a fish! 10:30AM<br />
-        Total fish caught: ${fishString.length}<br />
       </p>
       <div
         class="btn-toolbar"
         role="toolbar"
         aria-label="Toolbar with button groups"
       >
+      <div
+      class="btn-group mr-2"
+      role="group"
+      aria-label="Second group"
+    >
+      <button type="button" class="btn btn-secondary caught" id="${i}">
+        Caught a fish!
+      </button>
+    </div>
         <div
           class="btn-group mr-2"
           role="group"
           aria-label="First group"
         >
-          <button type="button" class="btn btn-secondary">
+          <button type="button" class="btn btn-secondary missed" id="${i}">
             Missed a fish!
-          </button>
-        </div>
-        <div
-          class="btn-group mr-2"
-          role="group"
-          aria-label="Second group"
-        >
-          <button type="button" class="btn btn-secondary">
-            Caught a fish!
           </button>
         </div>
       </div>

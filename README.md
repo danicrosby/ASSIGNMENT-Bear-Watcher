@@ -4,7 +4,7 @@ This is an app mainly used by rangers, scientists and bear enthusists to track a
 
 Each year between July and September brown bears congregate along the Brooks River. This river is one of the main rivers that Sockeye Salmon swim up to spawn. The brown bears wait in the shallows of the river and catch the salmon as they jump over rocks. 
 
-[View App]()
+[View App](dc-bear-watchers-unite.netlify.app)
 
 ## Get Started
 
@@ -27,7 +27,7 @@ https://www.loom.com/share/d7f5b1bccaa8494e8563e0aecfe99e03
 
 
 ## Relevant Links <!-- Link to all the things that are required outside of the ones that have their own section -->
-- [Check out the deployed site]()
+- [Check out the deployed site](dc-bear-watchers-unite.netlify.app)
 - [Figma WireFrame](https://www.figma.com/file/6VTWlVFWrUrVviW2rD6iXo/Bear-Watcher?node-id=0%3A1)
 - [Project Board](https://github.com/danicrosby/bear-watcher/projects)
 

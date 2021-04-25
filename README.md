@@ -6,9 +6,18 @@ Each year between July and September brown bears congregate along the Brooks Riv
 
 [View App](dc-bear-watchers-unite.netlify.app)
 
-## Get Started
+### Relevant Links 
+- [Loom Video](https://www.loom.com/share/d7f5b1bccaa8494e8563e0aecfe99e03)
+- [Check out the deployed site](dc-bear-watchers-unite.netlify.app)
+- [Figma WireFrame](https://www.figma.com/file/6VTWlVFWrUrVviW2rD6iXo/Bear-Watcher?node-id=0%3A1)
+- [Project Board](https://github.com/danicrosby/bear-watcher/projects)
 
-## About the User
+
+### Project Screenshot
+<img width="1148" alt="Bear Watcher App Overview" src="./images/Overview.png">
+
+
+## User Story
 - The ideal user for this application is a teacher, park ranger, scientist or nature enthueist
 - They are performing test and writing research papers on brown bears
 - The problem this app solves for them is it allows documentation on each brown bear that is observed and tracking data when a brown bear is tracked.
@@ -19,17 +28,6 @@ Each year between July and September brown bears congregate along the Brooks Riv
 * As a user, when they click the submit button on the new bear form a bear they should be added to the page.
 * As a user, when they click the submit button a card should appear and they should see all of the bears information displayed on a card.
 
-## Project Screenshots
-<img width="1148" alt="Bear Watcher App Overview" src="./images/Overview.png">
-
-## Loom video Walkthrough of Bear Watchers Unite!
-https://www.loom.com/share/d7f5b1bccaa8494e8563e0aecfe99e03
-
-
-## Relevant Links <!-- Link to all the things that are required outside of the ones that have their own section -->
-- [Check out the deployed site](dc-bear-watchers-unite.netlify.app)
-- [Figma WireFrame](https://www.figma.com/file/6VTWlVFWrUrVviW2rD6iXo/Bear-Watcher?node-id=0%3A1)
-- [Project Board](https://github.com/danicrosby/bear-watcher/projects)
 
 ## Contributors
 - Dani Crosby: https://github.com/danicrosby

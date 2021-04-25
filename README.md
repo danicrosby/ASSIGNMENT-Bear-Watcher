@@ -15,13 +15,12 @@ Each year between July and September brown bears congregate along the Brooks Riv
 https://www.loom.com/share/d7f5b1bccaa8494e8563e0aecfe99e03
 
 
-## User Story
+## Features
+## User stories
 - The ideal user for this application is a teacher, park ranger, scientist or nature enthueist
 - They are performing test and writing research papers on brown bears
 - The problem this app solves for them is it allows documentation on each brown bear that is observed and tracking data when a brown bear is tracked.
-
-## Features
-## User stories
+- 
 * As a user, when the page loads, they should see a bootstrap form that allows them to enter in a bear name and image url for a new bear.
 * As a user, when they click the submit button on the new bear form a bear they should be added to the page.
 * As a user, when they click the submit button a card should appear and they should see all of the bears information displayed on a card.

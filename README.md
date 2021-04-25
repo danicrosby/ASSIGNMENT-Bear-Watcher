@@ -12,8 +12,6 @@ Each year between July and September brown bears congregate along the Brooks Riv
 - [Project Board](https://github.com/danicrosby/bear-watcher/projects)
 
 
-### Project Screenshot
-<img width="1148" alt="Bear Watcher App Overview" src="./images/Overview.png">
 https://www.loom.com/share/d7f5b1bccaa8494e8563e0aecfe99e03
 
 

@@ -1,6 +1,6 @@
 # Bear Trackers Unite! [![Netlify Status](https://api.netlify.com/api/v1/badges/40864438-7aad-4a29-9e7f-1b0982db3eff/deploy-status)](https://app.netlify.com/sites/dc-bear-watchers-unite/deploys)
 
-This is an app mainly used by rangers, scientists and bear enthusists to track and research bears in the Katmai National Park. 
+This is an app mainly used by rangers, scientists and bear enthusiasts to track and research bears in the Katmai National Park. 
 
 Each year between July and September brown bears congregate along the Brooks River. This river is one of the main rivers that Sockeye Salmon swim up to spawn. The brown bears wait in the shallows of the river and catch the salmon as they jump over rocks. 
 
